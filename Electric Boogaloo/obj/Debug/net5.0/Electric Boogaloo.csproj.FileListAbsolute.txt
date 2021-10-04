@@ -1,0 +1,16 @@
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\bin\Debug\net5.0\Electric Boogaloo.exe
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\bin\Debug\net5.0\Electric Boogaloo.deps.json
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\bin\Debug\net5.0\Electric Boogaloo.runtimeconfig.json
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\bin\Debug\net5.0\Electric Boogaloo.runtimeconfig.dev.json
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\bin\Debug\net5.0\Electric Boogaloo.dll
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\bin\Debug\net5.0\ref\Electric Boogaloo.dll
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\bin\Debug\net5.0\Electric Boogaloo.pdb
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\obj\Debug\net5.0\Electric Boogaloo.csproj.AssemblyReference.cache
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\obj\Debug\net5.0\Electric Boogaloo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\obj\Debug\net5.0\Electric Boogaloo.AssemblyInfoInputs.cache
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\obj\Debug\net5.0\Electric Boogaloo.AssemblyInfo.cs
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\obj\Debug\net5.0\Electric Boogaloo.csproj.CoreCompileInputs.cache
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\obj\Debug\net5.0\Electric Boogaloo.dll
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\obj\Debug\net5.0\ref\Electric Boogaloo.dll
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\obj\Debug\net5.0\Electric Boogaloo.pdb
+C:\Users\joel.herfindal\Documents\NTI_Åk3\Programmering\SlumpFight2\Electric Boogaloo\obj\Debug\net5.0\Electric Boogaloo.genruntimeconfig.cache
